@@ -11,3 +11,4 @@ Although our COVID-Chatbot cannot replace experienced physicians and nurses, the
 The coronavirus disease has affected lives of people around the world. 
 Our COVID-Chatbot is used to know about the symptoms of coronavirus and precautions to avoid the coronavirus.
 This project is helps the citizens to protect him/her self from coronavirus.  
+URL of the Chatbot:https://web-chat.global.assistant.watson.cloud.ibm.com/preview.html?region=eu-gb&integrationID=34309d7a-a6f3-4b54-aef4-bacd7bb67afa&serviceInstanceID=c27f5fad-f675-49fb-8748-86baab45c50c
