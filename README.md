@@ -1,6 +1,6 @@
 # github-chatbot
 
-Hello! This is team TwiLight
+Hello! This is team TwiLight.
 This chatbot is developed using IBM Watson Services, called COVID-Chatbot, for COVID-19 assistance that communicates with a citizen to increase his/her consciousness towards the real danger of this outbreak.
 The messages delivered from COVID-Chatbot and its way of communication could
 possibly help to slow the COVID-19 spread.
